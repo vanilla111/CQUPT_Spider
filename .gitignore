@@ -1,0 +1,10 @@
+build/
+dbs/
+eggs/
+logs/
+project.egg-info/
+venv/
+.DS_Store
+spider_6379.log
+.idea/
+*/__pycache__/*
